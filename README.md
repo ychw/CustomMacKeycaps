@@ -13,7 +13,7 @@ After I published the final result with screenshots on [my blog](http://www.clin
 3. Feel free to modify it to suit your needs.
 2. Go to your favorite vendor and create a keycap set based on the .ai file you chose. Use WASD Keyboard as an example, just go to [this page](http://www.wasdkeyboards.com/index.php/products/keycap-set/104-key-cherry-mx-keycap-set.html) and upload your .ai file.
 3. Once you have the keyboard, you need to map the keys to the labled functions. I use [Karabiner](https://pqrs.org/osx/karabiner/) for that. The software used to be called **KeyRemap4MacBook**.
-4. My configuration file for the key mapping is [private.xml](http://www.google.com).
+4. My configuration file for the key mapping is [private.xml](https://github.com/ychw/CustomMacKeycaps/blob/master/private.xml).
 
 ## Other Alternatives
 Nowadays, there are more and more native Mac mechanical keyboards. For example:
@@ -21,4 +21,29 @@ Nowadays, there are more and more native Mac mechanical keyboards. For example:
 * [DAS Model S Professional for Mac](http://www.daskeyboard.com/model-s-professional-for-mac/)
 * [Happy Hacking Professional 2](https://elitekeyboards.com/products.php?sub=pfu_keyboards,hhkbpro2): this is actually not a Cherry MX keyboard; instead, it has "**electrostatic capacitive switches**". It supports Mac very well natively. I am currently using one and love it!
 
-## Screenshots
+## Pictures
+* Layout file
+
+![layout](https://raw.githubusercontent.com/ychw/CustomMacKeycaps/master/Custom_Mac_Keycaps.png)
+
+* Layout file with Pig King
+
+![layout2](https://raw.githubusercontent.com/ychw/CustomMacKeycaps/master/Custom_Mac_Keycaps_w_PigKing.png)
+
+* Keycap Pictures
+
+![keycat set](https://raw.githubusercontent.com/ychw/CustomMacKeycaps/master/screenshots/1-keyboard_whole.jpg)
+
+![2](https://raw.githubusercontent.com/ychw/CustomMacKeycaps/master/screenshots/2-keyboard_right.jpg)
+
+![3](https://raw.githubusercontent.com/ychw/CustomMacKeycaps/master/screenshots/3-keyboard_opt-cmd.jpg)
+
+![4](https://raw.githubusercontent.com/ychw/CustomMacKeycaps/master/screenshots/4-keyboard_f1-f4.jpg)
+
+![5](https://raw.githubusercontent.com/ychw/CustomMacKeycaps/master/screenshots/5-keyboard_f9-f12.jpg)
+
+![6](https://raw.githubusercontent.com/ychw/CustomMacKeycaps/master/screenshots/6-keyboard_f13-f15.jpg)
+
+![7](https://raw.githubusercontent.com/ychw/CustomMacKeycaps/master/screenshots/7-keyboard_arrows.jpg)
+
+![8](https://raw.githubusercontent.com/ychw/CustomMacKeycaps/master/screenshots/8-keyboard_pigking.jpg) 
