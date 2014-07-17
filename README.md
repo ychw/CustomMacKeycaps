@@ -1,8 +1,10 @@
 Custom Mac Keycaps
 ================
-This is a set of keycap templates with Apple keyboard layout. They are designed for Cherry MX mechanical keyboards and based on [Apple Keyboard with Numeric Keypad](http://store.apple.com/us/product/MB110LL/B/apple-keyboard-with-numeric-keypad-english-usa). Vendors who build custom mechanical keyboards can use these templates to print custom keycaps. My personal favorite vendor is [WASD Keyboards](http://www.wasdkeyboards.com). 
+This is a set of keycap templates with Apple keyboard layout. They are designed for Cherry MX mechanical PC keyboards and based on [Apple Keyboard with Numeric Keypad](http://store.apple.com/us/product/MB110LL/B/apple-keyboard-with-numeric-keypad-english-usa). With this keycap set and key mapping softwares, your mechanical PC keyboard can not only function like a real Mac keyboard, but also look like one! (Actually it looks even cooler, ;-))
 
-This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. Basically you can do whatever to it as long as no commercial use.
+Vendors who build custom mechanical keyboards can use these templates to print custom keycaps. My personal favorite is [WASD Keyboards](http://www.wasdkeyboards.com). 
+
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. Basically you can do whatever to it as long as not commercial use.
 
 ## A Little Bit History
 Back in November 2011, I was looking for a mechanical keyboard for my mac. However, it was so hard to find a perfect keyboard with mac layout back then. Finally I decided to create my own based on [the work of a GeekHack user](http://geekhack.org/index.php?topic=23203.0). 
