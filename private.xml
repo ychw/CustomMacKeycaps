@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<root>
+  <list>
+  	<item>
+  		<name>Remap Num to Clear</name>
+  		<identifier>private.remap_num_to_clear</identifier>
+  		<autogen>--KeyToKey-- KeyCode::PC_KEYPAD_NUMLOCK, KeyCode::KEYPAD_CLEAR</autogen>
+  	</item>
+  	<item>
+  		<name>Remap Application to Fn</name>
+  		<identifier>private.remap_application_to_fn</identifier>
+  		<autogen>--KeyToKey-- KeyCode::PC_APPLICATION, KeyCode::FN</autogen>
+  	</item>
+ 
+    <item>
+      <name>Remap Volume Keys</name>
+      <appendix>Up, Down, Mute</appendix>
+      <identifier>remap.volumeKeys</identifier>
+      <autogen>--KeyToConsumer-- KeyCode::PC_PRINTSCREEN, ModifierFlag::FN,
+      							ConsumerKeyCode::VOLUME_MUTE</autogen>
+      <autogen>--KeyToConsumer-- KeyCode::PC_SCROLLLOCK, ModifierFlag::FN,
+      							ConsumerKeyCode::VOLUME_DOWN</autogen>
+      <autogen>--KeyToConsumer-- KeyCode::PC_PAUSE, ModifierFlag::FN,
+      							ConsumerKeyCode::VOLUME_UP</autogen>
+    </item>
+ 
+    <item>
+      <name>Remap Brightness Keys</name>
+      <appendix>Darker, Brighter</appendix>
+      <identifier>remap.brightnesskeys</identifier>
+      <autogen>--KeyToConsumer-- KeyCode::F1, ModifierFlag::FN,
+      							ConsumerKeyCode::BRIGHTNESS_DOWN</autogen>
+      <autogen>--KeyToConsumer-- KeyCode::F2, ModifierFlag::FN,
+      							ConsumerKeyCode::BRIGHTNESS_UP</autogen>
+    </item>
+ 
+    <item>
+      <name>Remap Music Play Keys</name>
+      <appendix>Previous, Play/Pause, Next</appendix>
+      <identifier>remap.musickeys</identifier>
+      <autogen>--KeyToConsumer-- KeyCode::F9, ModifierFlag::FN,
+      							ConsumerKeyCode::MUSIC_PREV</autogen>
+      <autogen>--KeyToConsumer-- KeyCode::F10, ModifierFlag::FN,
+      							ConsumerKeyCode::MUSIC_PLAY</autogen>
+      <autogen>--KeyToConsumer-- KeyCode::F11, ModifierFlag::FN,
+      							ConsumerKeyCode::MUSIC_NEXT</autogen>
+    </item>
+ 
+    <item>
+      <name>Remap Eject Key</name>
+      <appendix>Eject</appendix>
+      <identifier>remap.ejectkey</identifier>
+      <autogen>--KeyToConsumer-- KeyCode::F12, ModifierFlag::FN,
+      							ConsumerKeyCode::EJECT</autogen>
+    </item>
+  </list>
+</root>
