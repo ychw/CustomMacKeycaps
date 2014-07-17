@@ -7,7 +7,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 Int
 ## A Little Bit History
 Back in November 2011, I was looking for a mechanical keyboard for my mac. However, it was so hard to find a perfect keyboard with mac layout back then. Finally I decided to create my own based on [the work of a GeekHack user](http://geekhack.org/index.php?topic=23203.0). 
 
-After I published the final result with screenshots on [my blog](http://www.clingmarks.com/custom-mac-mechanical-keyboard-lets-have-some-fun/893) and [GeekHack](http://geekhack.org/index.php?topic=24121.0), I received many positive feedbacks and requests for the template files. I initially hosted them on my blog. However, since my server crashes sometime, I decided to move them here from now on.
+After I published the final result with pictures on [my blog: Custom Mac Mechanical Keyboard — Let’s have some fun!](http://www.clingmarks.com/custom-mac-mechanical-keyboard-lets-have-some-fun/893) and [GeekHack](http://geekhack.org/index.php?topic=24121.0), I received many positive feedbacks and requests for the template files. I initially hosted them on my blog. However, since my server crashes sometime, I decided to move them here from now on.
 
 ## How To
 1. Download the .ai files from this repository.
