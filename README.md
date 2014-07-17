@@ -14,7 +14,7 @@ After I published the final result with screenshots on [my blog](http://www.clin
 2. The two .ai files are pretty much the same except one has a "Pig King" logo on the space bar.
 3. Feel free to modify it to suit your needs.
 2. Go to your favorite vendor and create a keycap set based on the .ai file you chose. Use WASD Keyboard as an example, just go to [this page](http://www.wasdkeyboards.com/index.php/products/keycap-set/104-key-cherry-mx-keycap-set.html) and upload your .ai file.
-3. Once you have the keyboard, you need to map the keys to the labled functions. I use [Karabiner](https://pqrs.org/osx/karabiner/) for that. The software used to be called **KeyRemap4MacBook**.
+3. Once you have the keyboard, you need to map the keys to the labeled functions. I use [Karabiner](https://pqrs.org/osx/karabiner/) for that. The software used to be called **KeyRemap4MacBook**.
 4. My configuration file for the key mapping is [private.xml](https://github.com/ychw/CustomMacKeycaps/blob/master/private.xml).
 
 ## Other Alternatives
