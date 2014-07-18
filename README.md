@@ -36,18 +36,18 @@ Nowadays, there are more and more native Mac mechanical keyboards. For example:
 
 * Keycap Pictures
 
-![keycat set](https://raw.githubusercontent.com/ychw/CustomMacKeycaps/master/screenshots/1-keyboard_whole.jpg)
+![keycat set](https://raw.githubusercontent.com/ychw/CustomMacKeycaps/master/pictures/1-keyboard_whole.jpg)
 
-![2](https://raw.githubusercontent.com/ychw/CustomMacKeycaps/master/screenshots/2-keyboard_right.jpg)
+![2](https://raw.githubusercontent.com/ychw/CustomMacKeycaps/master/pictures/2-keyboard_right.jpg)
 
-![3](https://raw.githubusercontent.com/ychw/CustomMacKeycaps/master/screenshots/3-keyboard_opt-cmd.jpg)
+![3](https://raw.githubusercontent.com/ychw/CustomMacKeycaps/master/pictures/3-keyboard_opt-cmd.jpg)
 
-![4](https://raw.githubusercontent.com/ychw/CustomMacKeycaps/master/screenshots/4-keyboard_f1-f4.jpg)
+![4](https://raw.githubusercontent.com/ychw/CustomMacKeycaps/master/pictures/4-keyboard_f1-f4.jpg)
 
-![5](https://raw.githubusercontent.com/ychw/CustomMacKeycaps/master/screenshots/5-keyboard_f9-f12.jpg)
+![5](https://raw.githubusercontent.com/ychw/CustomMacKeycaps/master/pictures/5-keyboard_f9-f12.jpg)
 
-![6](https://raw.githubusercontent.com/ychw/CustomMacKeycaps/master/screenshots/6-keyboard_f13-f15.jpg)
+![6](https://raw.githubusercontent.com/ychw/CustomMacKeycaps/master/pictures/6-keyboard_f13-f15.jpg)
 
-![7](https://raw.githubusercontent.com/ychw/CustomMacKeycaps/master/screenshots/7-keyboard_arrows.jpg)
+![7](https://raw.githubusercontent.com/ychw/CustomMacKeycaps/master/pictures/7-keyboard_arrows.jpg)
 
-![8](https://raw.githubusercontent.com/ychw/CustomMacKeycaps/master/screenshots/8-keyboard_pigking.jpg) 
+![8](https://raw.githubusercontent.com/ychw/CustomMacKeycaps/master/pictures/8-keyboard_pigking.jpg) 
