@@ -4,6 +4,7 @@ This is a set of keycap templates with Apple keyboard layout. They are designed 
 
 Vendors who build custom mechanical keyboards can use these templates to print custom keycaps, which can be installed on almost any Cherry MX mechanical keyboard. My personal favorite vendor is [WASD Keyboards](http://www.wasdkeyboards.com). 
 
+## License
 This work is licensed under [**Creative Commons Attribution-NonCommercial 4.0 International License**](https://creativecommons.org/licenses/by-nc/4.0/). Basically you can do whatever to it as long as not commercial use.
 
 ## A Little Bit History
